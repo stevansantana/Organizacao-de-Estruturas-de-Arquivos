@@ -19,14 +19,14 @@ struct _Endereco
 int main(int argc, char**argv)
 {
     FILE *f;
-	Endereco e;
+    Endereco e;
     int qtd=0;
     long inicio=0, fim, meio, tamArqBits, tamRegistro;
 
     if(argc != 2)
-	{
-		fprintf(stderr, "USO: %s [CEP]", argv[0]);
-		return 1;
+    {
+	fprintf(stderr, "USO: %s [CEP]", argv[0]);
+	return 1;
     }
 
     f = fopen("cep_ordenado.dat", "r");
