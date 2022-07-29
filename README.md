@@ -10,7 +10,7 @@
   - O algoritmo External Merge Sort se encontra na pasta *External Merge Sort*
   - O arquivo usado para a ordenação foi o arquivo cep.dat
   - O algoritmo External Merge Sort foi feito no sistema operacional Windows
-  - Para o código funcionar, siga os passos:
+  - Para executar o código, siga os passos:
     - Descompacte o arquvio **cep.zip** para a pasta do código *External Merge Sort*
     - Abra a pasta em que se encontram o código e o arquivo cep descompactado no Visual Studio Code
     - Para compilar o código *External Merge Sort* no Visual Studio Code no sistema operacional Windows, aperte a tecla **F6**
