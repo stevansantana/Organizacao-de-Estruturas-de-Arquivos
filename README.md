@@ -12,5 +12,5 @@
   - O algoritmo External Merge Sort foi feito no sistema operacional Windows
   - Para o código funcionar, siga os passos:
     - Descompacte o arquvio **cep.zip** para a pasta do código *External Merge Sort*
-    - Abra a pasta no vsCode em que se encontram o código e o arquivo cep descompactado
-    - Para compilar no vsCode no Windows, aperte a tecla **F6**
+    - Abra a pasta no Visual Studio Code em que se encontram o código e o arquivo cep descompactado
+    - Para compilar no Visual Studio Code no sistema operacional Windows, aperte a tecla **F6**
