@@ -13,4 +13,4 @@
   - Para o código funcionar, siga os passos:
     - Descompacte o arquvio **cep.zip** para a pasta do código *External Merge Sort*
     - Abra a pasta em que se encontram o código e o arquivo cep descompactado no Visual Studio Code
-    - Para compilar o código External Merge Sort no Visual Studio Code no sistema operacional Windows, aperte a tecla **F6**
+    - Para compilar o código *External Merge Sort* no Visual Studio Code no sistema operacional Windows, aperte a tecla **F6**
